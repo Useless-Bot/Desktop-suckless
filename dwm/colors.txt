@@ -1,0 +1,2 @@
+for pink bar color "#e77fe7" and the font color for it "#4a5463"
+for green bar color "#3f6632" and the font color for it "#e7e7e7"
